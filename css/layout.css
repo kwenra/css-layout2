@@ -19,6 +19,10 @@ img {
   width: 100%;
 }
 
+h2 {
+  font-size: 100%;
+}
+
 .footer {
   position: fixed;
   width: 100%;
