@@ -1,6 +1,5 @@
 body {
   padding-top: 100px;
-  padding-bottom: 150px;
 }
 
 .heading {
@@ -13,6 +12,7 @@ body {
 
 .box {
   padding: 10px 20px;
+  margin-bottom: 100px;
 }
 
 img {
