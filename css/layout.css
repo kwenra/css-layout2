@@ -1,1 +1,11 @@
-/*your custom CSS here*/
+.header {
+  position: fixed;
+}
+
+.box grid_5 {
+  width: 360;
+}
+
+.footer {
+  position: fixed;
+}
