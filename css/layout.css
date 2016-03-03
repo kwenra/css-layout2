@@ -1,11 +1,11 @@
-.header {
-  position: fixed;
+img {
+  width: 100%;
 }
 
-.box grid_5 {
-  width: 360px;
-  padding: 5px;
+.box {
+  padding: 10px 10px 20px 20px;
 }
+
 
 .footer {
   position: fixed;
